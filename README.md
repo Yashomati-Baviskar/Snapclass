@@ -1,2 +1,2 @@
 # Snapclass
-This is the Ai attendence app.
+This is the Ai attendence app.hhh
